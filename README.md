@@ -32,7 +32,7 @@ The system has two room types. A random discount (0%, 10%, or 20%) is calculated
 
 1.  **Compile:**
     ```bash
-    g++ main.cpp -o hotel
+    g++ hotel.cpp -o hotel
     ```
 
 2.  **Run:**
